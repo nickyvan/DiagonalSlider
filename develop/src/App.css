@@ -1,0 +1,16 @@
+body {
+	--color-text: #f1f1f1;
+    --color-bg: #0c0c0c;
+    --color-link: #1ab3de;
+    --color-link-hover: #f1f1f1;
+	--color-deco: #141414;
+	--color-side: #353535;
+	font-family: Futura, "futura-pt", sans-serif;
+	min-height: 100vh;
+	color: #57585c;
+	color: var(--color-text);
+	background-color: var(--color-bg);
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	padding:10vh 0;
+}
